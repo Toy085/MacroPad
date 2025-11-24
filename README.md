@@ -18,6 +18,7 @@ Others:
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img width="1058" height="807" alt="image" src="https://github.com/user-attachments/assets/1e608f6c-77af-4a4d-9145-4b4bfb32c1d4" /> | <img width="540" height="698" alt="image" src="https://github.com/user-attachments/assets/efd9bcf7-918a-4103-ade5-898dbf640635" /> | <img width="1078" height="620" alt="image" src="https://github.com/user-attachments/assets/50890e13-6c86-4fa2-9e2d-2f76da501314" />
+<img width="1058" height="807" alt="image" src="https://github.com/user-attachments/assets/1e608f6c-77af-4a4d-9145-4b4bfb32c1d4" /> | <img width="540" height="698" alt="image" src="https://github.com/user-attachments/assets/efd9bcf7-918a-4103-ade5-898dbf640635" /> | <img width="1139" height="637" alt="image" src="https://github.com/user-attachments/assets/389a9bf2-8d16-4d32-9017-01751e173f2d" />
+
 
 
