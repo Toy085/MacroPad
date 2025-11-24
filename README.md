@@ -4,7 +4,7 @@
 BOM:
 - 6x Cherry MX Switches
 - 6x Blank DSA Keycaps
-- 3x SK6812 MINI Leds
+- 3x SK6812 MINI-E LEDs
 - 1x XIAO RP2040
 - 1x 0.91 inch OLED display
 - 4x M3x16 Bolt
