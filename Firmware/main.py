@@ -15,7 +15,7 @@ macros = Macros()
 keyboard.modules.append(macros)
 
 # Define your pins here!
-PINS = [board.D3, board.D4, board.D2, board.D1, board.D28, board.D29]
+PINS = [board.D7, board.D8, board.D9, board.D10, board.D2, board.D3]
 
 # Tell kmk we are not using a key matrix
 keyboard.matrix = KeysScanner(
